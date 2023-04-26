@@ -1,0 +1,9 @@
+1. manadara :- where prerecorded video which teachers ui/ux from strach .  
+2. automated flute playing robot :- take refernce from the autotune music box 
+3. augmented reality college exprorer :- hackathon done in BMSCE 
+4. dancing pads which generate energy 
+5. ***a device where it tells the doors are completley locked or not , when the metal lock comes in contact with the end plate the circuit is completed and an app notification tell when it was locked and opened completely so that unknown enter would be notified and when the key is lost the app would open the door without keyless*** 
+6. a UI which reminds and becomes a primitive personal assistant it is prefered because no data stored by 3rd parties and all the data is cloud stored by aws 
+7. 
+
+ 
